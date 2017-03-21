@@ -9,5 +9,12 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "k ise bro" );
+        
+        for (int i = 0; i < args.length; i++) {
+            String string = args[i];
+            
+        }
+        
+       
     }
 }
